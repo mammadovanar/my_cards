@@ -1,0 +1,99 @@
+{
+  "cardBuilder": {
+    "heading": "Virtual Cards",
+    "darkTheme": "Qaranlıq rejim",
+    "lightTheme": "Aydın rejim",
+    "senderLabel": "Göndərən",
+    "recipientLabel": "Alıcı",
+    "messageLabel": "Mesaj",
+    "generateBtn": "AI ilə yarat",
+    "addMedia": "Media əlavə et:",
+    "videoBtn": "Video",
+    "photoBtn": "Şəkil",
+    "gifBtn": "GIF",
+    "colorBtn": "Rəng",
+    "previewBtn": "Önizləmə",
+    "sendBtn": "Saxla və Göndər",
+    "previewTitle": "Kartın önizləməsi",
+    "greeting": "Əziz",
+    "noMessage": "Mesajınız",
+    "fromWho": "Kimdən",
+    "doneBtn": "Bitdi",
+    "sentAlert": "Kartınız saxlanıldı və göndərildi!"
+  },
+  "aiTextModal": {
+    "title": "Süni İntellekt ilə mətnin yaradılması",
+    "languageLabel": "Dil",
+    "languageRussian": "Rus dili",
+    "languageEnglish": "İngilis dili",
+    "toneLabel": "Ton",
+    "toneFriendly": "Dostcasına",
+    "toneOfficial": "Rəsmi",
+    "toneFunny": "Əyləncəli",
+    "relationLabel": "Kimə göndəriləcək?",
+    "relationFamily": "Ailə",
+    "relationFriends": "Dostlar",
+    "relationColleagues": "Həmkarlar",
+    "relationUniversal": "Hər kəs üçün",
+    "lengthLabel": "Uzunluq",
+    "lengthShort": "Qısa",
+    "lengthMedium": "Orta",
+    "lengthLong": "Uzun",
+    "additionalLabel": "Əlavə istəklər",
+    "additionalPlaceholder": "Açar sözlər və ya nüanslar qeyd edin",
+    "generateBtn": "Yarat",
+    "toastSuccess": "Mətn uğurla yaradıldı!",
+    "generatedExample": "Nümunə (dil: {{language}}, ton: {{tone}}, əlaqə: {{relation}}, uzunluq: {{length}}): Salam! Təbrik edirəm... {{additional}}"
+  },
+  "colorModal": {
+    "title": "Rəng seçimi"
+  },
+  "gifModal": {
+    "title": "GIF əlavə et",
+    "searchLabel": "GIF axtar:",
+    "searchPlaceholder": "Açar söz daxil edin",
+    "searchBtn": "Axtar",
+    "uploadLabel": "Yaxud öz GIF-inizi yükləyin:",
+    "uploadBtn": "Qalereyadan yüklə",
+    "toastAdded": "GIF əlavə olundu",
+    "toastUploaded": "GIF yükləndi"
+  },
+  "passwordModal": {
+    "title": "Kartı qorumaq üçün şifrə",
+    "description": "Açıqcanızı qorumaq üçün şifrə təyin edə bilərsiniz, yalnız şifrəni bilənlər oxuya bilsin.",
+    "passwordLabel": "Şifrə",
+    "passwordPlaceholder": "Tələb olunmur, boş buraxa bilərsiniz",
+    "hintLabel": "Şifrə üçün ipucu",
+    "hintPlaceholder": "Məsələn, 'Uşaqlıqda ləqəbim'",
+    "oneTimeLabel": "Açıqcanı bir dəfəlik et",
+    "toastTitle": "Şifrəni daxil edin və ya sahəni boş buraxın."
+  },
+  "photoModal": {
+    "title": "Şəkil əlavə etmək",
+    "description": "Şəkil əlavə etmə üsulunu seçin:",
+    "takePhotoBtn": "Şəkil çək",
+    "uploadPhotoBtn": "Qalereyadan yüklə",
+    "toastPhotoTaken": "Şəkil əlavə olundu",
+    "toastPhotoUploaded": "Şəkil yükləndi"
+  },
+  "videoModal": {
+    "title": "Video əlavə etmək",
+    "description": "Video əlavə etmə üsulunu seçin:",
+    "recordVideoBtn": "Video çək",
+    "uploadVideoBtn": "Qalereyadan yüklə",
+    "toastVideoRecorded": "Video əlavə olundu",
+    "toastVideoUploaded": "Video yükləndi"
+  },
+  "common": {
+    "cancel": "Ləğv et",
+    "save": "Saxla"
+  },
+  "cardView": {
+    "passwordPrompt": "Açıqcaya baxmaq üçün şifrəni daxil edin:",
+    "passwordHint": "İpucu",
+    "unlockBtn": "Aç",
+    "incorrectPassword": "Şifrə yanlışdır. Yenidən cəhd edin.",
+    "passwordInput": "Şifrəni daxil edin",
+    "replyBtn": "Açıqca ilə cavab ver"
+  }
+}

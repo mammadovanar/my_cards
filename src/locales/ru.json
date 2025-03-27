@@ -1,0 +1,99 @@
+{
+  "cardBuilder": {
+    "heading": "Virtual Cards",
+    "darkTheme": "Темная тема",
+    "lightTheme": "Светлая тема",
+    "senderLabel": "Отправитель",
+    "recipientLabel": "Получатель",
+    "messageLabel": "Сообщение",
+    "generateBtn": "Создать с ИИ",
+    "addMedia": "Добавить мультимедиа:",
+    "videoBtn": "Видео",
+    "photoBtn": "Фото",
+    "gifBtn": "GIF",
+    "colorBtn": "Цвет",
+    "previewBtn": "Предпросмотр",
+    "sendBtn": "Сохранить и отправить",
+    "previewTitle": "Предпросмотр открытки",
+    "greeting": "Дорогой",
+    "noMessage": "Ваше сообщение",
+    "fromWho": "От кого",
+    "doneBtn": "Готово",
+    "sentAlert": "Ваша открытка сохранена и отправлена!"
+  },
+  "aiTextModal": {
+    "title": "Генерация текста через ИИ",
+    "languageLabel": "Язык",
+    "languageRussian": "Русский",
+    "languageEnglish": "Английский",
+    "toneLabel": "Тон",
+    "toneFriendly": "Дружеский",
+    "toneOfficial": "Официальный",
+    "toneFunny": "Смешной",
+    "relationLabel": "Кто получатель?",
+    "relationFamily": "Родственники",
+    "relationFriends": "Друзья",
+    "relationColleagues": "Коллеги",
+    "relationUniversal": "Универсально",
+    "lengthLabel": "Длина",
+    "lengthShort": "Короткое",
+    "lengthMedium": "Среднее",
+    "lengthLong": "Длинное",
+    "additionalLabel": "Дополнительные пожелания",
+    "additionalPlaceholder": "Укажите ключевые слова или нюансы",
+    "generateBtn": "Генерировать",
+    "toastSuccess": "Текст успешно сгенерирован!",
+    "generatedExample": "Вот пример (язык: {{language}}, тон: {{tone}}, отношения: {{relation}}, длина: {{length}}): Привет! Поздравляю тебя... {{additional}}"
+  },
+  "colorModal": {
+    "title": "Выбор цвета оформления"
+  },
+  "gifModal": {
+    "title": "Добавить GIF",
+    "searchLabel": "Найти GIF:",
+    "searchPlaceholder": "Введите ключевое слово",
+    "searchBtn": "Поиск",
+    "uploadLabel": "Или загрузить свой GIF:",
+    "uploadBtn": "Загрузить из галереи",
+    "toastAdded": "GIF добавлен",
+    "toastUploaded": "GIF загружен"
+  },
+  "passwordModal": {
+    "title": "Защита открытки",
+    "description": "Вы можете установить пароль, чтобы только знающие пароль могли её прочитать.",
+    "passwordLabel": "Пароль",
+    "passwordPlaceholder": "Оставьте пустым, если не требуется",
+    "hintLabel": "Подсказка к паролю",
+    "hintPlaceholder": "Например, 'Моё прозвище в детстве'",
+    "oneTimeLabel": "Сделать открытку одноразовой",
+    "toastTitle": "Укажите пароль или оставьте поле пустым."
+  },
+  "photoModal": {
+    "title": "Добавление фото",
+    "description": "Выберите способ добавления фото:",
+    "takePhotoBtn": "Сделать снимок",
+    "uploadPhotoBtn": "Загрузить из галереи",
+    "toastPhotoTaken": "Фото добавлено",
+    "toastPhotoUploaded": "Фото загружено"
+  },
+  "videoModal": {
+    "title": "Добавление видео",
+    "description": "Выберите способ добавления видео:",
+    "recordVideoBtn": "Записать видео",
+    "uploadVideoBtn": "Загрузить из галереи",
+    "toastVideoRecorded": "Видео добавлено",
+    "toastVideoUploaded": "Видео загружено"
+  },
+  "common": {
+    "cancel": "Отмена",
+    "save": "Сохранить"
+  },
+  "cardView": {
+    "passwordPrompt": "Введите пароль для просмотра открытки:",
+    "passwordHint": "Подсказка",
+    "unlockBtn": "Открыть",
+    "incorrectPassword": "Неверный пароль. Попробуйте ещё раз.",
+    "passwordInput": "Введите пароль",
+    "replyBtn": "Ответить открыткой"
+  }
+}

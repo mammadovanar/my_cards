@@ -1,0 +1,99 @@
+{
+  "cardBuilder": {
+    "heading": "Virtual Cards",
+    "darkTheme": "Dark Mode",
+    "lightTheme": "Light Mode",
+    "senderLabel": "Sender",
+    "recipientLabel": "Recipient",
+    "messageLabel": "Message",
+    "generateBtn": "Generate with AI",
+    "addMedia": "Add Media:",
+    "videoBtn": "Video",
+    "photoBtn": "Photo",
+    "gifBtn": "GIF",
+    "colorBtn": "Color",
+    "previewBtn": "Preview",
+    "sendBtn": "Save and Send",
+    "previewTitle": "Card Preview",
+    "greeting": "Dear",
+    "noMessage": "Your message",
+    "fromWho": "From",
+    "doneBtn": "Done",
+    "sentAlert": "Your card has been saved and sent!"
+  },
+  "aiTextModal": {
+    "title": "AI Text Generation",
+    "languageLabel": "Language",
+    "languageRussian": "Russian",
+    "languageEnglish": "English",
+    "toneLabel": "Tone",
+    "toneFriendly": "Friendly",
+    "toneOfficial": "Official",
+    "toneFunny": "Funny",
+    "relationLabel": "Recipient",
+    "relationFamily": "Family",
+    "relationFriends": "Friends",
+    "relationColleagues": "Colleagues",
+    "relationUniversal": "Universal",
+    "lengthLabel": "Length",
+    "lengthShort": "Short",
+    "lengthMedium": "Medium",
+    "lengthLong": "Long",
+    "additionalLabel": "Additional Wishes",
+    "additionalPlaceholder": "Enter keywords or nuances",
+    "generateBtn": "Generate",
+    "toastSuccess": "Text successfully generated!",
+    "generatedExample": "Here is an example (language: {{language}}, tone: {{tone}}, relation: {{relation}}, length: {{length}}): Hello! Congratulations... {{additional}}"
+  },
+  "colorModal": {
+    "title": "Choose a Color"
+  },
+  "gifModal": {
+    "title": "Add GIF",
+    "searchLabel": "Search GIF:",
+    "searchPlaceholder": "Enter a keyword",
+    "searchBtn": "Search",
+    "uploadLabel": "Or upload your own GIF:",
+    "uploadBtn": "Upload from Gallery",
+    "toastAdded": "GIF added",
+    "toastUploaded": "GIF uploaded"
+  },
+  "passwordModal": {
+    "title": "Protect Card",
+    "description": "You can set a password so only those who know it can read the card.",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Leave blank if not required",
+    "hintLabel": "Password Hint",
+    "hintPlaceholder": "For example, 'My childhood nickname'",
+    "oneTimeLabel": "Make the card one-time use",
+    "toastTitle": "Please specify a password or leave the field empty."
+  },
+  "photoModal": {
+    "title": "Add Photo",
+    "description": "Choose how to add a photo:",
+    "takePhotoBtn": "Take a Photo",
+    "uploadPhotoBtn": "Upload from Gallery",
+    "toastPhotoTaken": "Photo added",
+    "toastPhotoUploaded": "Photo uploaded"
+  },
+  "videoModal": {
+    "title": "Add Video",
+    "description": "Choose how to add a video:",
+    "recordVideoBtn": "Record Video",
+    "uploadVideoBtn": "Upload from Gallery",
+    "toastVideoRecorded": "Video added",
+    "toastVideoUploaded": "Video uploaded"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "cardView": {
+    "passwordPrompt": "Enter the password to view the card:",
+    "passwordHint": "Hint",
+    "unlockBtn": "Unlock",
+    "incorrectPassword": "Incorrect password. Please try again.",
+    "passwordInput": "Enter password",
+    "replyBtn": "Reply with a Card"
+  }
+}
